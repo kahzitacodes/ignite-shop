@@ -2,7 +2,7 @@
 
 In this challenge, I implemented a shopping cart that uses Stripe API data to search for existing items and controls the number of items a user wants to purchase.
 
-## 📝 Stack
+## Stack
 
 Next
 
